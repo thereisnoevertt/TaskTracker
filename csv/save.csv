@@ -1,0 +1,8 @@
+ID, TYPE, NAME, STATUS, DESCRIPTION, EPIC
+0,TASK,Проверить код,NEW,Проверить, 
+1,SUBTASK,Написать тест,IN_PROGRESS,Протестировать Epic, 1
+2,SUBTASK,Написать тест,IN_PROGRESS,Протестировать Epic, 1
+1,EPIC,Сделать проект,NEW,Разделить на подзадачи, 
+2,EPIC,Сделать проект,NEW,Разделить на подзадачи, 
+
+0,1,2
